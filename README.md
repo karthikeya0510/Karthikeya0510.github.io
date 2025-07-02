@@ -17,6 +17,8 @@ A simple and beautiful static webpage built using only *HTML* and *CSS*, featuri
 
 ## 🧪 How to Use
 
+Here is my deployed version of my page https://karthikeya0510.github.io/
+
 1. Clone or download this repository.
 2. Open index.html in your browser.
 3. Enjoy the super animated background!
@@ -43,3 +45,6 @@ You can:
 ## 📃 License
 
 This project is open-source and free to use for learning and personal projects.
+
+![image](https://github.com/user-attachments/assets/b0f2ebd3-19fb-491c-b4dc-2ab6df06f3ae)
+
